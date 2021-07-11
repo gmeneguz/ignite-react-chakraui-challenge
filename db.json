@@ -1,0 +1,190 @@
+{
+  "continents": [
+    {
+      "id": "europa",
+      "slug": "europa",
+      "name": "Europa",
+      "info": "O continente mais antigo",
+      "imageUrl": "https://images.unsplash.com/photo-1490642914619-7955a3fd483c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1540&q=80",
+      "bannerUrl": "https://images.unsplash.com/photo-1490642914619-7955a3fd483c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1540&q=80",
+      "description": "Um continente repleto de pontos turisticos interessantes pronto para ser conhecido e explorado pelos viajantes mais curiosos.",
+      "countries": 50,
+      "languages": 40,
+      "citiesOnTop100": [
+        {
+          "name": "Londres",
+          "country": "Inglaterra",
+          "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/United-kingdom_flag_icon_round.svg/2048px-United-kingdom_flag_icon_round.svg.png",
+          "bannerImageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1372&q=80"
+        },
+        {
+          "name": "Roma",
+          "country": "Itália",
+          "countryFlagUrl": "https://cdn.countryflags.com/thumbs/italy/flag-round-250.png",
+          "bannerImageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1372&q=80"
+        },
+        {
+          "name": "Londres",
+          "country": "Inglaterra",
+          "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/United-kingdom_flag_icon_round.svg/2048px-United-kingdom_flag_icon_round.svg.png",
+          "bannerImageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1372&q=80"
+        },
+        {
+          "name": "Roma",
+          "country": "Itália",
+          "countryFlagUrl": "https://cdn.countryflags.com/thumbs/italy/flag-round-250.png",
+          "bannerImageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1372&q=80"
+        },
+        {
+          "name": "Londres",
+          "country": "Inglaterra",
+          "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/United-kingdom_flag_icon_round.svg/2048px-United-kingdom_flag_icon_round.svg.png",
+          "bannerImageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1372&q=80"
+        },
+        {
+          "name": "Roma",
+          "country": "Itália",
+          "countryFlagUrl": "https://cdn.countryflags.com/thumbs/italy/flag-round-250.png",
+          "bannerImageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1372&q=80"
+        },
+        {
+          "name": "Londres",
+          "country": "Inglaterra",
+          "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/United-kingdom_flag_icon_round.svg/2048px-United-kingdom_flag_icon_round.svg.png",
+          "bannerImageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1372&q=80"
+        },
+        {
+          "name": "Roma",
+          "country": "Itália",
+          "countryFlagUrl": "https://cdn.countryflags.com/thumbs/italy/flag-round-250.png",
+          "bannerImageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1372&q=80"
+        }
+      ]
+    },
+    {
+      "id": "america-do-norte",
+      "slug": "america-do-norte",
+      "name": "América do Norte",
+      "info": "Modernidade e aventura",
+      "imageUrl": "https://images.unsplash.com/photo-1518391846015-55a9cc003b25?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+      "bannerUrl": "https://images.unsplash.com/photo-1518391846015-55a9cc003b25?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+      "description": "A América do Norte é formada por três países: México, Estados Unidos e Canadá. Cada país tem sua especialidade e cultura própria, e é isso que faz cada um deles valerem a pena.",
+      "countries": 50,
+      "languages": 40,
+      "citiesOnTop100": [
+        {
+          "name": "Nova York",
+          "country": "Estados Unidos",
+          "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/1024px-United-states_flag_icon_round.svg.png",
+          "bannerImageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1372&q=80"
+        },
+        {
+          "name": "Miami",
+          "country": "Estados Unidos",
+          "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/United-states_flag_icon_round.svg/1024px-United-states_flag_icon_round.svg.png",
+          "bannerImageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1372&q=80"
+        }
+      ]
+    },
+    {
+      "id": "america-do-sul",
+      "slug": "america-do-sul",
+      "name": "America do Sul",
+      "info": "Natureza e descontração",
+      "imageUrl": "https://images.unsplash.com/photo-1593692557859-b209f9f4ced4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1334&q=80",
+      "bannerUrl": "https://images.unsplash.com/photo-1593692557859-b209f9f4ced4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1334&q=80",
+      "description": "Um continente repleto de pontos turisticos interessantes pronto para ser conhecido e explorado pelos viajantes mais curiosos.",
+      "countries": 50,
+      "languages": 40,
+      "citiesOnTop100": [
+        {
+          "name": "Rio de Janeiro",
+          "country": "Brasil",
+          "countryFlagUrl": "https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png",
+          "bannerImageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1372&q=80"
+        },
+        {
+          "name": "São Paulo",
+          "country": "Brasil",
+          "countryFlagUrl": "https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png",
+          "bannerImageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1372&q=80"
+        }
+      ]
+    },
+    {
+      "id": "asia",
+      "slug": "asia",
+      "name": "Ásia",
+      "info": "Cultura milenar",
+      "imageUrl": "https://images.unsplash.com/photo-1617469165786-8007eda3caa7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+      "bannerUrl": "https://images.unsplash.com/photo-1617469165786-8007eda3caa7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+      "description": "Um continente repleto de pontos turisticos interessantes pronto para ser conhecido e explorado pelos viajantes mais curiosos.",
+      "countries": 50,
+      "languages": 40,
+      "citiesOnTop100": [
+        {
+          "name": "Pequim",
+          "country": "China",
+          "countryFlagUrl": "https://cdn.countryflags.com/thumbs/china/flag-round-250.png",
+          "bannerImageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1372&q=80"
+        },
+        {
+          "name": "Xangai",
+          "country": "China",
+          "countryFlagUrl": "https://cdn.countryflags.com/thumbs/china/flag-round-250.png",
+          "bannerImageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1372&q=80"
+        }
+      ]
+    },
+    {
+      "id": "africa",
+      "slug": "africa",
+      "name": "África",
+      "info": "Natureza e vida selvagem",
+      "imageUrl": "https://images.unsplash.com/photo-1614531341773-3bff8b7cb3fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1789&q=80",
+      "bannerUrl": "https://images.unsplash.com/photo-1614531341773-3bff8b7cb3fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1789&q=80",
+      "description": "Um continente repleto de pontos turisticos interessantes pronto para ser conhecido e explorado pelos viajantes mais curiosos.",
+      "countries": 50,
+      "languages": 40,
+      "citiesOnTop100": [
+        {
+          "name": "Cidade do Cabo",
+          "country": "África do Sul",
+          "countryFlagUrl": "https://cdn.countryflags.com/thumbs/south-africa/flag-round-250.png",
+          "bannerImageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1372&q=80"
+        },
+        {
+          "name": "Peetória",
+          "country": "África do Sul",
+          "countryFlagUrl": "https://cdn.countryflags.com/thumbs/south-africa/flag-round-250.png",
+          "bannerImageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1372&q=80"
+        }
+      ]
+    },
+    {
+      "id": "oceania",
+      "slug": "oceania",
+      "name": "Oceania",
+      "info": "Praias e diversidade",
+      "imageUrl": "https://images.unsplash.com/photo-1516633630673-67bbad747022?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+      "bannerUrl": "https://images.unsplash.com/photo-1516633630673-67bbad747022?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+      "description": "Um continente repleto de pontos turisticos interessantes pronto para ser conhecido e explorado pelos viajantes mais curiosos.",
+      "countries": 50,
+      "languages": 40,
+      "citiesOnTop100": [
+        {
+          "name": "Sidney",
+          "country": "Austrália",
+          "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Australia_flag_icon_round.svg/1024px-Australia_flag_icon_round.svg.png",
+          "bannerImageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1372&q=80"
+        },
+        {
+          "name": "Melbourne",
+          "country": "Austrália",
+          "countryFlagUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Australia_flag_icon_round.svg/1024px-Australia_flag_icon_round.svg.png",
+          "bannerImageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1372&q=80"
+        }
+      ]
+    }
+  ]
+}

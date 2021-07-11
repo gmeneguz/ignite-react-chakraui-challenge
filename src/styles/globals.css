@@ -1,0 +1,31 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppings", sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+button {
+  cursor: pointer;
+}
+
+:root {
+  --swiper-navigation-color: #ffba08;
+  --swiper-theme-color: #ffba08;
+}
+.swiper-pagination-bullet {
+  background-color: #999999 !important;
+  opacity: 1 !important;
+}
+.swiper-pagination-bullet-active {
+  background-color: #ffba08 !important;
+}
