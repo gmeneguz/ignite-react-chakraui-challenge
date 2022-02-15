@@ -21,4 +21,4 @@ yarn dev
 
 Imagem sample on mobile
 
-![](images/sample.jpg)
+<img src="images/sample.jpg" width="200">
