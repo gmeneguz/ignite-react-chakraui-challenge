@@ -1,23 +1,24 @@
-## Desafio Chakra UI - World Trip Site
+## Chakra UI Challenge - World Trip Site
 
-**Objetivos do desafio**
+**Challenge goals**
 
 - Chakra UI
-- Responsividade
+- Responsiveness
 - NextJs
 
-## Como executar
+## How to run
 
-**yarn server é necessário para iniciar Json Server com dados fictícios**
+**yarn server is required in order to start Json server with mock data**
 
 ```sh
+# Install dependecies
 yarn
-# Iniciar o servidor json
+# Start json server
 yarn server
-# Iniciar o servidor o app next
+# Start app in dev mode
 yarn dev
 ```
 
-Imagem de exemplo mobile
+Imagem sample on mobile
 
 ![](images/sample.jpg)
